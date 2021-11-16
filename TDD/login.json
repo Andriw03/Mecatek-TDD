@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+    "username": "estefa",
+    "password": "periface1"
+  },
+   {
+    "username": "user01",
+    "password": "user01"
+  },
+  {
+    "username": "user02",
+    "password": "user02"
+  },
+  {
+    "username": "user03",
+    "password": "user03"
+  },
+  {
+    "username": "user04",
+    "password": "user04"
+  },
+  {
+    "username": "user05",
+    "password": "user05"
+  },
+  {
+    "username": "user06",
+    "password": "user06"
+  },
+  {
+    "username": "user07",
+    "password": "user07"
+  },
+  {
+    "username": "user08",
+    "password": "user08"
+  },
+  {
+    "username": "user09",
+    "password": "user09"
+  }
+]
+}
